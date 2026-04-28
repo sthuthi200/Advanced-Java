@@ -10,6 +10,8 @@ expt 1c 2 Output: https://github.com/user-attachments/assets/fe67a609-6ef9-43d0-
 expt 1c 3 output: https://github.com/user-attachments/assets/1414ac96-2e09-4f05-8624-5ac6a3a7bb60
 expt 1c 4 output: https://github.com/user-attachments/assets/864bc15d-02f1-4be2-828d-1488092cb828
 expt 1c 5 output : https://github.com/user-attachments/assets/bf76abab-15fa-4e00-aad6-c21a836a69f8
+expt 2a output: https://github.com/user-attachments/assets/aab31996-412e-40b8-8248-0d5827a35624
+
 
 
 
