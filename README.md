@@ -19,6 +19,16 @@ expt 3c output : https://github.com/user-attachments/assets/83489264-0b01-46d5-a
 expt 4a output : https://github.com/user-attachments/assets/3a6755ba-3513-47fc-9f7f-323c56d46f45
 expt 4b output: https://github.com/user-attachments/assets/e3c78bd9-4443-4786-b0b0-b37495631521
 expt 4c output: https://github.com/user-attachments/assets/bfb3fe2f-c2aa-429c-b3a0-f4bc67c81a6b
+expt 5a output: https://github.com/user-attachments/assets/7496a064-2ad8-4802-ba6b-af1093815d4d
+expt 5b output: https://github.com/user-attachments/assets/a3996490-cdcf-4d24-9a28-f11725a71702
+expt 5c output: https://github.com/user-attachments/assets/07bd76d9-1c15-4c94-b733-b02355e1a555
+
+
+
+
+
+
+
 
 
 
