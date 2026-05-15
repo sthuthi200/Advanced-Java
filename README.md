@@ -17,6 +17,9 @@ expt 3a output:b https://github.com/user-attachments/assets/562c1e61-d78c-4038-b
 expt 3b  output : https://github.com/user-attachments/assets/88159432-f60f-4058-b522-3ce89002650e
 expt 3c output : https://github.com/user-attachments/assets/83489264-0b01-46d5-aef6-2dffffd89460
 expt 4a output : https://github.com/user-attachments/assets/3a6755ba-3513-47fc-9f7f-323c56d46f45
+expt 4b output: https://github.com/user-attachments/assets/e3c78bd9-4443-4786-b0b0-b37495631521
+
+
 
 
 
