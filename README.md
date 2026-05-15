@@ -22,6 +22,7 @@ expt 4c output: https://github.com/user-attachments/assets/bfb3fe2f-c2aa-429c-b3
 expt 5a output: https://github.com/user-attachments/assets/7496a064-2ad8-4802-ba6b-af1093815d4d
 expt 5b output: https://github.com/user-attachments/assets/a3996490-cdcf-4d24-9a28-f11725a71702
 expt 5c output: https://github.com/user-attachments/assets/07bd76d9-1c15-4c94-b733-b02355e1a555
+expt 5d output: https://github.com/user-attachments/assets/85a2840b-5ef6-4c9f-83a5-b69ff804fdef
 
 
 
